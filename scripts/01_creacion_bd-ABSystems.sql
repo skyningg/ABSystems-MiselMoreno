@@ -1,0 +1,5 @@
+CREATE DATABASE ABSystems;
+GO
+
+USE ABSystems;
+GO
